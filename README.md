@@ -1,4 +1,4 @@
-🩺 Data Science Healthcare Project: Predicting Drug Persistency
+** 🩺 Data Science Healthcare Project: Predicting Drug Persistency **
 
 GitHub Repository: Data-Science-Healthcare-Project--Final-Report-Presentation
 
